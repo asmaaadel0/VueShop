@@ -29,19 +29,19 @@ ypu can also lohin anf logout...
  ## ScreenShots: <a name = "screen-shots"></a>
 <h3 align='left'>Main Screen</h3>
 
-![Capture](https://user-images.githubusercontent.com/88618793/184736847-2be7cb30-83e6-4863-9de7-647e97caa97c.PNG)
+![Capture](https://user-images.githubusercontent.com/88618793/185799695-bae9b4e8-a565-4c2b-8b3b-cd5bad192bb3.PNG)
 
  <h3 align='left'>The Cart</h3>
 
-![Capture2](https://user-images.githubusercontent.com/88618793/184737248-9157ff99-4907-4b5e-9788-1315762717b6.PNG)
+![Capture1](https://user-images.githubusercontent.com/88618793/185799703-9455d74c-73cd-4ff8-bf18-caddc5c75a47.PNG)
 
 <h3 align='left'>When You add some products to the cart</h3>
 
-![Capture3](https://user-images.githubusercontent.com/88618793/184737572-009f2711-dfd1-4473-a710-12bf23c40bb3.PNG)
+![Capture2](https://user-images.githubusercontent.com/88618793/185799708-0e25eb86-53b5-46d5-8995-7e1686cb65f4.PNG)
 
 <h3 align='left'>You can also login, then you will see admin section appear</h3>
 
-![Capture3](https://user-images.githubusercontent.com/88618793/184737572-009f2711-dfd1-4473-a710-12bf23c40bb3.PNG)
+![Capture3](https://user-images.githubusercontent.com/88618793/185799714-cbb2fe0c-8cd8-4b07-ae59-0f2af215eb72.PNG)
 
 
 ## Contributors <a name = "Contributors"></a>
@@ -58,29 +58,3 @@ ypu can also lohin anf logout...
  </table>
 
 
-
-
-# vue-shop
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
