@@ -24,7 +24,7 @@ ypu can also lohin anf logout...
 
 ## Website link <a name = "link"></a>
 
-- https://vue-shop-project.netlify.app/products
+- https://vue-shop-project.netlify.app/
 
  ## ScreenShots: <a name = "screen-shots"></a>
 <h3 align='left'>Main Screen</h3>
