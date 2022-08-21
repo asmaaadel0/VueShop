@@ -21,5 +21,7 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3"
-  }
+  },
+  "_id": "vue-shop@0.1.0",
+  "readme": "ERROR: No README data found!"
 }
