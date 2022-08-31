@@ -14,7 +14,7 @@
 ## website description <a name = "website-description"></a>
 
 it's a simple website that includes multible pages with different URLs where I use Routes, Route Params, Dynamic Paths, and Vuex, you can click 'Add to Cart' button to put the product to the cart, if you want to remove it, you can easily press 'Remove',
-ypu can also lohin anf logout...
+ypu can also login anf logout.
 
 ## Project setup <a name = "Project-setup"></a>
 - npm install
